@@ -2,7 +2,7 @@
 
 A Python-based statistical lottery tool designed to generate "Smart Picks" for the Powerball. Instead of simple random guessing, this model uses **Heuristic Filtering** and **Prize-Protection** logic to select numbers that mirror historical winning patterns while avoiding over-played human sequences.
 
-## 🚀 Strategic Filters Included
+## Strategic Filters Included
 To maximize potential payout and follow the **Law of Large Numbers**, every generated play must pass these six filters:
 
 *   **Sum Analysis:** Total value of white balls is kept between **130–180** (the historical "Bell Curve" sweet spot).
